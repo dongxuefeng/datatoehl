@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  user_plug_prcdata.cpp
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\xxlib\plugin\user_plug_prcdata.cpp(15): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\xxlib\plugin\user_plug_prcdata.cpp(123): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\xxlib\plugin\user_plug_prcdata.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\xxlib\plugin\user_plug_prcdata.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\xxlib\plugin\user_plug_prcdata.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  c_windows_service.cpp
+  send_datafile.cpp
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\send_datafile.cpp(32): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          d:\ehl\src\datatoehl\ehl.ftpdata.proc\send_datafile.cpp(20) : 忽略“i”的定义
+          d:\ehl\src\datatoehl\ehl.ftpdata.proc\send_datafile.cpp(14) : 使用“i”的定义
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\send_datafile.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\send_datafile.cpp(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  public.cpp
+  FTP_Data.cpp
+  check_file_path.cpp
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\check_file_path.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+d:\ehl\src\datatoehl\ehl.ftpdata.proc\check_file_path.cpp(74): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _mkdir. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\direct.h(140) : 参见“mkdir”的声明
+  正在生成代码...
+check_file_path.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  FTP_Data.vcxproj -> D:\ehl\src\datatoehl\ehl.ftpdata.proc\Debug\..\..\bin\ehl.ftpdata.proc.exe
